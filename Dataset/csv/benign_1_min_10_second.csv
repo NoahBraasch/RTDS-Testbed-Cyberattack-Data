@@ -1,0 +1,39 @@
+No.,Time,Source,Destination,Protocol,Length,Info,Label
+19,1.367083,172.24.10.1,172.24.10.211,DNP 3.0,78,Disable Spontaneous Messages,1
+29,1.531194,172.24.10.211,172.24.10.1,DNP 3.0,71,Response,1
+31,1.702564,172.24.10.1,172.24.10.211,DNP 3.0,81,"Read, Class 0123",1
+36,1.702999,172.24.10.211,172.24.10.1,DNP 3.0,165,Response,1
+40,1.906376,172.24.10.1,172.24.10.211,DNP 3.0,78,Enable Spontaneous Messages,1
+45,1.906664,172.24.10.211,172.24.10.1,DNP 3.0,71,Response,1
+49,2.067518,172.24.10.1,172.24.10.211,DNP 3.0,81,"Read, Class 0123",1
+54,2.067855,172.24.10.211,172.24.10.1,DNP 3.0,165,Response,1
+113,7.081179,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+114,7.081335,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+171,12.081363,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+172,12.081547,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+231,17.081494,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+232,17.081702,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+293,22.081453,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+294,22.081653,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+355,27.081534,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+356,27.081742,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+415,32.081603,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+416,32.081805,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+473,37.081634,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+474,37.081832,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+535,42.081833,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+536,42.082035,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+595,47.081889,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+596,47.082096,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+657,52.082005,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+658,52.082228,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+717,57.082077,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+718,57.082288,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+775,62.082106,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+776,62.08227,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+837,67.082173,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+838,67.082378,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+897,72.082165,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+898,72.08232,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
+959,77.082312,172.24.10.211,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+960,77.082529,172.24.10.1,172.24.10.211,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
