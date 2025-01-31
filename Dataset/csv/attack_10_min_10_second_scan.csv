@@ -1,6 +1,6 @@
 No.,Time,Source,Destination,Protocol,Length,Info,Label
-44,4.229033,172.24.10.210,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",0
-45,4.229216,172.24.10.1,172.24.10.210,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",0
+44,4.229033,172.24.10.210,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",1
+45,4.229216,172.24.10.1,172.24.10.210,DNP 3.0,64,"from 1 to 1024, len=5, Status of Link",1
 91,8.399512,172.24.10.1,172.24.10.210,DNP 3.0,81,"Read, Class 0123",0
 96,8.40843,172.24.10.210,172.24.10.1,DNP 3.0,165,Response,0
 146,13.429216,172.24.10.210,172.24.10.1,DNP 3.0,64,"from 1024 to 1, len=5, Request Link Status",0
